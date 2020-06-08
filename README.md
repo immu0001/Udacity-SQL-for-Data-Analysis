@@ -28,7 +28,7 @@ I have also included the screenshots from the videos for some important and usef
 For the remaining ones, please refer these [SQL Tutorials](https://community.modeanalytics.com/sql/) (by MODE as well).
 
 <br/>
-.........................................................................................
+............................................................................................
 
 
 
